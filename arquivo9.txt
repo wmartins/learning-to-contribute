@@ -1,0 +1,1 @@
+E como o GIT trata os conflitos? Se eu criar ou editar algum arquivo que outra pessoa também está editando, como isso é tratado?
