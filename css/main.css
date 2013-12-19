@@ -101,3 +101,7 @@ h1, h2, h3,p,a{
 	border-bottom:2px solid #4192d4;
 	background: #e4e4e4 url(../img/bg.png);
 }
+
+#fileNameSel {
+    display: none;
+}
