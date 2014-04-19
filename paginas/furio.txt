@@ -1,3 +1,8 @@
 O arquivo estava em branco quando eu cheguei.
+<<<<<<< HEAD
 Resolvi colocar esse texto para não passar um arquivo sem conteúdo.
 Testando.
+=======
+Resolvi colocar esse texto para nï¿½o passar um arquivo sem conteï¿½do.
+Testando
+>>>>>>> 39f24ce71bb845287a40dabd8b0ccbfc460141ea
