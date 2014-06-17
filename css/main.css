@@ -3,14 +3,11 @@
 	padding:0;
 	list-style:none;
 	text-decoration: none;
+	font-family: helvetica;
 }
 
 body{
 	background: #fafafa;
-}
-
-h1, h2, h3,p,a{
-	font-family:helvetica;
 }
 
 .clear{
@@ -102,6 +99,7 @@ h1, h2, h3,p,a{
 	background: #e4e4e4 url(../img/bg.png);
 }
 .footer h6{
+	color: #3498db;
 	float: right;
 	font-size: 16px;
 	margin: 175px 10px 0 0;
