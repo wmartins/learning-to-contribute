@@ -1,1 +1,1 @@
-Arquivo criado para finalidades de teste do comando add do git.
+﻿Arquivo criado para finalidades de teste do comando add do git.
