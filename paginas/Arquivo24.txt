@@ -1,4 +1,4 @@
-Iniciando o uso do Git.
+﻿Iniciando o uso do Git.
 <br />
 Obrigado pelo artigo! Muito bom, como sempre ;D
 <br />

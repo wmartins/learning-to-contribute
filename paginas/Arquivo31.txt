@@ -1,3 +1,3 @@
-Primeiro Fork!
-Autor: Thom�s Targino
+﻿Primeiro Fork!
+Autor: Thomás Targino
 Github: github.com/thomastargino

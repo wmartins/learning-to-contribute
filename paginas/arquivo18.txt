@@ -1,1 +1,1 @@
-Arquivo de teste.
+﻿Arquivo de teste.
