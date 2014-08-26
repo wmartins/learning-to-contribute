@@ -1,6 +1,6 @@
 $(function(){
 
-  'use strict'
+  'use strict';
   
    var $animado = $("#result");
    $(".content-open").on("click", function(e){
