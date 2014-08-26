@@ -1,4 +1,7 @@
 $(function(){
+
+  'use strict';
+  
    var $animado = $("#result");
    $(".content-open").on("click", function(e){
        e.preventDefault();
