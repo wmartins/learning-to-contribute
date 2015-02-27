@@ -14,3 +14,7 @@ nbdist/
 nbactions.xml
 nb-configuration.xml
 .nb-gradle/
+
+# Ignore arquivos de backup gerado
+*.*~
+*~
