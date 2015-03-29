@@ -6,10 +6,6 @@
 	font-family: helvetica;
 }
 
-body{
-	background: #fafafa;
-}
-
 .clear{
 	clear: both;
 }
@@ -23,38 +19,50 @@ body{
 .top{
 	width: 100%;
 	height: auto;
-	margin: 30px 0 10px 0;
+	margin: 30px 0;
 }
 
 .top h1{
-	font-size: 35px;
+	font-size: 27px;
 	font-weight: lighter;
 	letter-spacing: -1px;
-	color: #4192d4;
-	text-shadow: 0 1px 0 #000;
+	color: #4a4a4a;
 }
+
+.top img {
+	margin: 0 10px -3px 0;
+}	
 
 .content p{
 	font-size: 14px;
-	color: #777;
+	color: #a4a4a4;
 	padding: 4px;
-	margin-top: 10px;
+	margin: 15px 0;
 }
 
 .content ul{
-	margin: 20px;
 	float: left;
+	width: 100%;
+}
+
+.content ul:nth-child(odd) {
+	background:#f2f2f2;
+}
+
+.content ul:nth-child(even) {
+	-moz-box-shadow: inset 0 0 1px #ddd;
+	-webkit-box-shadow: inset 0 0 1px #ddd;
+	-o-box-shadow: inset 0 0 1px #ddd;
+	box-shadow: inset 0 0 1px #ddd;
 }
 
 .content li{
 	line-height: 25px;
+	width: 21%;
+	float: left;
+	padding: 2%;
 }
 
-/*.content ul li a{
-	color: #057;
-	font-size: 14px;
-}
-*/
 .content ul li a:hover{
 	color: #057;
 }
@@ -73,8 +81,8 @@ body{
 .top h1 a{
 	font-size: 12px;
 	font-style: italic;
-	color: #aaa;
-	text-shadow: none;	
+	color: #a4a4a4;
+	text-shadow: none;	    vertical-align: top;    
 }
 
 .top h1 a:hover{
@@ -86,31 +94,28 @@ body{
 	height: auto;
 	min-height: 270px;
 	background: #fff;
-	border: 1px solid #ddd;
-	border-top: 1px dashed #fff;
+	border-top: 1px dashed #eee;
 	text-align: center;	
 }
 
 .footer{
 	width: 100%;
-	height: 200px;
-	border: 1px solid #ccc;
-	border-bottom: 2px solid #4192d4;
-	background: #e4e4e4 url(../img/bg.png);
+	margin-top: 30px;
+	padding: 40px 0;
+	text-align: center;
+	border-top: 1px dashed #eee;
 }
 .footer h6{
-	color: #3498db;
-	float: right;
+	color: #4a4a4a;
 	font-size: 16px;
-	margin: 175px 10px 0 0;
 }
 
 #fileNameSel {
     display: none;
 }
-/*========================== ESTILIZAÇÃO DE LINKS ===============================*/
+/*========================== ESTILIZAÃ‡ÃƒO DE LINKS ===============================*/
 .content-links{
-	padding: 0 35px;
+	padding: 0px 0px;
 }
 .links_efeito ul li a {
 	position: relative;
