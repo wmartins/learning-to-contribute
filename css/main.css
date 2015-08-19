@@ -3,7 +3,9 @@
 	padding:0;
 	list-style:none;
 	text-decoration: none;
-	font-family: helvetica;
+	font-family: Segoe UI, Arial, sans-serif;
+	font-size: 14px;
+	color: #000;
 }
 
 .clear{
