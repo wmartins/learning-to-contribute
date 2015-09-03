@@ -6,3 +6,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Carlos Eduardo](https://github.com/kdpsa)
 
 - [William Andrade](https://github.com/williandrade) 
+
+- [Bruno Teixeira](https://github.com/BrunoTxr) 
