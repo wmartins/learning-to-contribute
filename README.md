@@ -8,3 +8,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [William Andrade](https://github.com/williandrade) 
 
 - [Rafael Cerqueira](https://github.com/rafascerqueira)
+
+- [Bruno Teixeira](https://github.com/BrunoTxr)
