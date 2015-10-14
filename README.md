@@ -5,12 +5,14 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 
 - [Carlos Eduardo](https://github.com/kdpsa)
 
-- [William Andrade](https://github.com/williandrade) 
+- [William Andrade](https://github.com/williandrade)
 
 - [Rafael Cerqueira](https://github.com/rafascerqueira)
 
 - [Bruno Teixeira](https://github.com/BrunoTxr)
- 
+
 - [Rodrigo Tognin](https://github.com/rotognin)
 
 - [Henrique Emidio](https://github.com/henrymidio)
+
+- [Gabriel Gomes](https://github.com/gabrielgomesferraz)
