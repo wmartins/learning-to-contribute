@@ -16,3 +16,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Henrique Emidio](https://github.com/henrymidio)
 
 - [Gabriel Gomes](https://github.com/gabrielgomesferraz)
+
+- [Michel Gomes](https://github.com/jmallone)
