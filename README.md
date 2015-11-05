@@ -18,3 +18,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Gabriel Gomes](https://github.com/gabrielgomesferraz)
 
 - [Michel Gomes](https://github.com/jmallone)
+
+- [César de Barros](https://github.com/cbsorrilha)
