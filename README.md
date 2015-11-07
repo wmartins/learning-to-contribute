@@ -20,3 +20,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Michel Gomes](https://github.com/jmallone)
 
 - [César de Barros](https://github.com/cbsorrilha)
+
+- [Dyego Alves](https://github.com/dyegoalves)
