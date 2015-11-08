@@ -22,3 +22,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [César de Barros](https://github.com/cbsorrilha)
 
 - [Dyego Alves](https://github.com/dyegoalves)
+
+- [Bruno Alves](https://github.com/brunoalvesdasilva)
