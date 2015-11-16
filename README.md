@@ -24,3 +24,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Dyego Alves](https://github.com/dyegoalves)
 
 - [Bruno Alves](https://github.com/brunoalvesdasilva)
+
+- [Mauricio Colli](https://github.com/mauriciocolli)
