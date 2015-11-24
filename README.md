@@ -26,3 +26,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Bruno Alves](https://github.com/brunoalvesdasilva)
 
 - [Mauricio Colli](https://github.com/mauriciocolli)
+
+- [Paulo R. Correia Jr](https://github.com/dopaco)
