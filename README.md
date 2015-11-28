@@ -28,3 +28,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Mauricio Colli](https://github.com/mauriciocolli)
 
 - [Paulo R. Correia Jr](https://github.com/dopaco)
+
+- [João Marcos Duarte](https://github.com/johnmarcus015)
