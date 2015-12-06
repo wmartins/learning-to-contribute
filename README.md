@@ -32,3 +32,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [João Marcos Duarte](https://github.com/johnmarcus015)
 
 - [Dian Carlos](https://github.com/diancabral/)
+
+- [Kátia Nakamura](https://github.com/katiayn/)
