@@ -34,3 +34,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Dian Carlos](https://github.com/diancabral/)
 
 - [Kátia Nakamura](https://github.com/katiayn/)
+
+- [Ryan Filho](https://github.com/RyanFilho)
