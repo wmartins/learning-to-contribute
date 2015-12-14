@@ -40,3 +40,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Michel Rodrigues] (https://github.com/michel-rodrigues/)
 
 - [Renan Teixeira] (https://github.com/renant)
+
+- [Tamiris Bonicenha] (https://github.com/tamirisapbonicenha)
