@@ -42,3 +42,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Renan Teixeira] (https://github.com/renant)
 
 - [Tamiris Bonicenha] (https://github.com/tamirisapbonicenha)
+
+- [Wallace de Souza Vizerra] (https://github.com/wallaceamxters)
