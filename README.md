@@ -46,3 +46,4 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Wallace de Souza Vizerra] (https://github.com/wallaceamxters)
 
 - [Rafael Pereira] (https://github.com/12afaelPereira)
+- [Elivelton Andreati Sorato] (https://github.com/elisor)
