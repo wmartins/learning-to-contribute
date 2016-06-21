@@ -37,16 +37,18 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 
 - [Ryan Filho](https://github.com/RyanFilho)
 
-- [Michel Rodrigues] (https://github.com/michel-rodrigues/)
+- [Michel Rodrigues](https://github.com/michel-rodrigues/)
 
-- [Renan Teixeira] (https://github.com/renant)
+- [Murilo Eduardo dos Santos](https://github.com/MuriloEduardo)
 
-- [Tamiris Bonicenha] (https://github.com/tamirisapbonicenha)
+- [Renan Teixeira](https://github.com/renant)
 
-- [Wallace de Souza Vizerra] (https://github.com/wallaceamxters)
+- [Tamiris Bonicenha](https://github.com/tamirisapbonicenha)
 
-- [Rafael Pereira] (https://github.com/12afaelPereira)
+- [Wallace de Souza Vizerra](https://github.com/wallaceamxters)
 
-- [Elivelton Andreati Sorato] (https://github.com/elisor)
+- [Rafael Pereira](https://github.com/12afaelPereira)
 
-- [Wilson Neto] (https://github.com/willgomes)
+- [Elivelton Andreati Sorato](https://github.com/elisor)
+
+- [Wilson Neto](https://github.com/willgomes)
