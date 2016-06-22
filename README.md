@@ -52,3 +52,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Elivelton Andreati Sorato](https://github.com/elisor)
 
 - [Wilson Neto](https://github.com/willgomes)
+
+- [Daniel da Silva Farias](https://github.com/danielsilvafarias)
