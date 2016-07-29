@@ -54,3 +54,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Wilson Neto](https://github.com/willgomes)
 
 - [Daniel da Silva Farias](https://github.com/danielsilvafarias)
+
+- [Cassio Almeida](https://github.com/cassioalmeidas)
