@@ -56,3 +56,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Daniel da Silva Farias](https://github.com/danielsilvafarias)
 
 - [Cassio Almeida](https://github.com/cassioalmeidas)
+
+- [Isaque Bezerra](https://github.com/isaquebezerra)
