@@ -1,4 +1,4 @@
-#teste
+﻿#teste
 Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 
 - [Adriano Avelino](https://github.com/adrianoavelino)
@@ -58,3 +58,7 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Cassio Almeida](https://github.com/cassioalmeidas)
 
 - [Isaque Bezerra](https://github.com/isaquebezerra)
+
+- [Lucas Pires](https://github.com/lucasopf)
+
+
