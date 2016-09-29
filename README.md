@@ -62,3 +62,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Lucas Pires](https://github.com/lucasopf)
 
 - [Rogério Almeida](https://github.com/RogerioAP)
+
+- [Diogenes Pelisson](https://github.com/diogenxs)
