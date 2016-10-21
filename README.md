@@ -64,3 +64,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Rogério Almeida](https://github.com/RogerioAP)
 
 - [Diogenes Pelisson](https://github.com/diogenxs)
+
+- [Gianluca Ghisleni](https://github.com/gigias)
