@@ -68,3 +68,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Gianluca Ghisleni](https://github.com/gigias)
 
 - [Thiago Nascimento](https://github.com/anakis)
+
+- [Marcos Freitas](https://github.com/marcosfreitas)
