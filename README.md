@@ -70,3 +70,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Thiago Nascimento](https://github.com/anakis)
 
 - [Marcos Freitas](https://github.com/marcosfreitas)
+
+- [Sofia Bareta](https://github.com/sofiabareta)
