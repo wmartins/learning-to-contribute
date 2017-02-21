@@ -70,6 +70,8 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 
 - [Gianluca Ghisleni](https://github.com/gigias)
 
+- [Tiago Fuelber](https://github.com/TiagoFuelber)
+
 - [Thiago Nascimento](https://github.com/anakis)
 
 - [Marcos Freitas](https://github.com/marcosfreitas)
