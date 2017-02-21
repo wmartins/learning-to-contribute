@@ -1,6 +1,9 @@
 ﻿#teste
 Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 
+
+- [Ivan Santos](https://github.com/ivansantos10)
+
 - [Adriano Avelino](https://github.com/adrianoavelino)
 
 - [Carlos Eduardo](https://github.com/kdpsa)
@@ -68,3 +71,9 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Gianluca Ghisleni](https://github.com/gigias)
 
 - [Tiago Fuelber](https://github.com/TiagoFuelber)
+
+- [Thiago Nascimento](https://github.com/anakis)
+
+- [Marcos Freitas](https://github.com/marcosfreitas)
+
+- [Sofia Bareta](https://github.com/sofiabareta)
