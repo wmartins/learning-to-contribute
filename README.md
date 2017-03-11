@@ -1,6 +1,7 @@
 ﻿#teste
 Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 
+- [Rony Freitas](https://github.com/rony-freitas)
 
 - [Ivan Santos](https://github.com/ivansantos10)
 
