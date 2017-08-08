@@ -80,3 +80,5 @@ Deixe aqui a sua contribuição e descobrirmos quem já passou por aqui:
 - [Marcos Freitas](https://github.com/marcosfreitas)
 
 - [Sofia Bareta](https://github.com/sofiabareta)
+
+- [David Allysson](https://github.com/davidallysson)
