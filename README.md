@@ -6,6 +6,8 @@
 
 - [Bruno Teixeira](https://github.com/BrunoTxr)
 
+- [Caio Santos](https://github.com/caio687)
+
 - [Carlos Eduardo](https://github.com/kdpsa)
 
 - [Cassio Almeida](https://github.com/cassioalmeidas)
