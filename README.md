@@ -85,3 +85,6 @@
 - [Wilson Neto](https://github.com/willgomes)
 
 - [Wilson Junior](https://github.com/wilsonjuniorwj)
+
+- [Welton Sanches](https://github.com/WeltonSanches)
+
