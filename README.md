@@ -78,6 +78,8 @@
 
 - [Thiago Nascimento](https://github.com/anakis)
 
+- [Tobias Rocha da Rosa](https://github.com/tobiassrocha)
+
 - [Wallace de Souza Vizerra](https://github.com/wallaceamxters)
 
 - [William Andrade](https://github.com/williandrade)
