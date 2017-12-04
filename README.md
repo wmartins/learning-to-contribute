@@ -1,4 +1,4 @@
-## Deixe aqui a sua contribuição e descobriremos quem já passou por aqui:
+﻿## Deixe aqui a sua contribuição e descobriremos quem já passou por aqui:
 
 - [Adriano Avelino](https://github.com/adrianoavelino)
 
@@ -37,6 +37,8 @@
 - [Ivan Santos](https://github.com/ivansantos10)
 
 - [JJ Koscky](https://github.com/jjkoscky)
+
+- [Jean Vitor de Paulo](https://github.com/jeanvit)
 
 - [João Marcos Duarte](https://github.com/johnmarcus015)
 
