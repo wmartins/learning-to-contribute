@@ -86,6 +86,8 @@
 
 - [William Andrade](https://github.com/williandrade)
 
+- [William Mendes](https://github.com/willianmendesf)
+
 - [Wilson Neto](https://github.com/willgomes)
 
 - [Wilson Junior](https://github.com/wilsonjuniorwj)
