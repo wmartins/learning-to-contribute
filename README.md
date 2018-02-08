@@ -74,6 +74,8 @@
 
 - [Sofia Bareta](https://github.com/sofiabareta)
 
+- [Tadeu Mesquita](https://github.com/tadeumesquita)
+
 - [Tamiris Bonicenha](https://github.com/tamirisapbonicenha)
 
 - [Tiago Fuelber](https://github.com/TiagoFuelber)
