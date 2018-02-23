@@ -14,6 +14,8 @@
 
 - [César de Barros](https://github.com/cbsorrilha)
 
+- [Claudio Donato Valim](https://github.com/cdvalim)
+
 - [Daniel da Silva Farias](https://github.com/danielsilvafarias)
 
 - [David Allysson](https://github.com/davidallysson)
