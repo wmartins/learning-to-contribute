@@ -48,6 +48,8 @@
 
 - [Lucas Pires](https://github.com/lucasopf)
 
+- [Leonardo Anjos](https://github.com/leonardo-anjos)
+
 - [Marcos Freitas](https://github.com/marcosfreitas)
 
 - [Mauricio Colli](https://github.com/mauriciocolli)
