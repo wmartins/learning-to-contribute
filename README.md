@@ -18,6 +18,8 @@
 
 - [Claudio Donato Valim](https://github.com/cdvalim)
 
+- [Daniel Rigoni](https://github.com/danielrgn)
+
 - [Daniel da Silva Farias](https://github.com/danielsilvafarias)
 
 - [David Allysson](https://github.com/davidallysson)
