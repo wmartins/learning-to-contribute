@@ -68,6 +68,8 @@
 
 - [Rafael Cerqueira](https://github.com/rafascerqueira)
 
+- [Rafael Neves](https://github.com/rafaeljneves)
+
 - [Rafael Pereira](https://github.com/12afaelPereira)
 
 - [Renan Teixeira](https://github.com/renant)
