@@ -1,0 +1,9 @@
+h1{
+  text-align:center;
+  color:blue;
+}
+
+form label{
+  font-family: Verdana, Geneva, sans-serif;
+  font-size: 12px;
+}
