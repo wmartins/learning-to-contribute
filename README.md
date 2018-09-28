@@ -107,3 +107,5 @@
 - [Welton Sanches](https://github.com/WeltonSanches)
 
 - [Gan Chew Ying] (https://github.com/gcyying123)
+
+- [Felipe Cabrera] (https://github.com/fcrdossantos)
