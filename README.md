@@ -109,3 +109,5 @@
 - [Gan Chew Ying] (https://github.com/gcyying123)
 
 - [Felipe Cabrera] (https://github.com/fcrdossantos)
+
+- [Jacson Ferreira](https://github.com/JacsonF)
