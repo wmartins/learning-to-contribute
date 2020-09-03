@@ -113,3 +113,5 @@
 - [Felipe Castilhos](https://github.com/felipecastilhos)
 
 - [Eugene Ong Gee Haw] (https://github.com/imrbun)
+
+- [Emerson Bezerra](https://github.com/emersondevelops)
