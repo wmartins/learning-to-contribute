@@ -8,6 +8,8 @@
 
 - [Bruno Teixeira](https://github.com/BrunoTxr)
 
+- [Cagin Cevik](https://github.com/cgncvk)
+
 - [Caio Santos](https://github.com/caio687)
 
 - [Carlos Eduardo](https://github.com/kdpsa)
