@@ -1,5 +1,7 @@
 ﻿## Deixe aqui a sua contribuição e descobriremos quem já passou por aqui:
 
+- [Bruno Vargas](https://github.com/bjvargas)
+
 - [Adelcio Porto](https://github.com/adelcioportonfe)
 
 - [Adriano Avelino](https://github.com/adrianoavelino)
