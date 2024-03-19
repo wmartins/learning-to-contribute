@@ -1,127 +1,152 @@
-﻿## Deixe aqui a sua contribuição e descobriremos quem já passou por aqui:
+﻿# 🚀 Bem-vindo ao learning-to-contribute 🚀
 
-- [Adelcio Porto](https://github.com/adelcioportonfe)
+Seja parte de uma comunidade vibrante de mais de 50 colaboradores neste repositório!
 
-- [Adriano Avelino](https://github.com/adrianoavelino)
+Este é o lugar perfeito para aprender e contribuir para projetos no GitHub. Se você é novo por aqui, não se preocupe - estamos aqui para te ajudar a dar os primeiros passos!
 
-- [Bruno Alves](https://github.com/brunoalvesdasilva)
+## Sobre o Repositório
 
-- [Bruno Teixeira](https://github.com/BrunoTxr)
+O learning-to-contribute é um espaço dedicado a facilitar os primeiros Forks/Pull Requests para aqueles que estão começando sua jornada no GitHub.
 
-- [Bruno Vargas](https://github.com/bjvargas)
+## Como Contribuir
 
-- [Brian Muniz Silveira](https://github.com/DevDecfalter)
+Por favor, siga as melhores práticas e a organização dos arquivos para tornar tudo mais simples e eficiente. Existem pastas específicas para cada tipo de arquivo. Por exemplo, se estiver criando um arquivo HTML, coloque-o na pasta correspondente. O mesmo vale para arquivos de JS, SQL, PHP, C++, C#, ou qualquer outra linguagem.
 
-- [Cagin Cevik](https://github.com/cgncvk)
+A organização é fundamental para o crescimento eficiente deste repositório, permitindo que alcancemos um número cada vez maior de novos colaboradores. Desde já, agradecemos sua colaboração.
 
-- [Caio Santos](https://github.com/caio687)
+### Por favor, respeite a ordem alfabética dos contribuidores. ✔️
+### Por favor, evite utilizar letras maiúsculas nos nomes dos arquivos. Mantenha tudo em conformidade com as melhores práticas. ✔️
+### Todos são bem-vindos. 🔆 
 
-- [Carlos Eduardo](https://github.com/kdpsa)
+---
 
-- [Cassio Almeida](https://github.com/cassioalmeidas)
+## Contribuidores
 
-- [César de Barros](https://github.com/cbsorrilha)
+Confira abaixo os incríveis colaboradores que já passaram por aqui:
 
-- [Claudio Donato Valim](https://github.com/cdvalim)
+- [Adelcio Porto](https://github.com/adelcioportonfe) ✔️
 
-- [Daniel da Silva Farias](https://github.com/danielsilvafarias)
+- [Adriano Avelino](https://github.com/adrianoavelino) ✔️
 
-- [Daniel Rigoni](https://github.com/danielrgn)
+- [Bruno Alves](https://github.com/brunoalvesdasilva) ✔️
 
-- [David Allysson](https://github.com/davidallysson)
+- [Bruno Teixeira](https://github.com/BrunoTxr) ✔️
 
-- [Dian Carlos](https://github.com/diancabral/)
+- [Bruno Vargas](https://github.com/bjvargas) ✔️
 
-- [Diogenes Pelisson](https://github.com/diogenxs)
+- [Brian Muniz Silveira](https://github.com/DevDecfalter) ✔️
 
-- [Dyego Alves](https://github.com/dyegoalves)
+- [Cagin Cevik](https://github.com/cgncvk) ✔️
 
-- [Edilson Matola](https://github.com/edilsonmatola)
+- [Caio Santos](https://github.com/caio687) ✔️
 
-- [Eugene Ong Gee Haw](https://github.com/imrbun)
+- [Carlos Eduardo](https://github.com/kdpsa) ✔️
 
-- [Elivelton Andreati Sorato](https://github.com/elisor)
+- [Cassio Almeida](https://github.com/cassioalmeidas) ✔️
 
-- [Emerson Bezerra](https://github.com/emersondevelops)
+- [César de Barros](https://github.com/cbsorrilha) ✔️
 
-- [Felipe Cabrera](https://github.com/fcrdossantos)
+- [Claudio Donato Valim](https://github.com/cdvalim) ✔️
 
-- [Felipe Castilhos](https://github.com/felipecastilhos)
+- [Daniel da Silva Farias](https://github.com/danielsilvafarias) ✔️
 
-- [Gabriel Gomes](https://github.com/gabrielgomesferraz)
+- [Daniel Rigoni](https://github.com/danielrgn) ✔️
 
-- [Gan Chew Ying](https://github.com/gcyying123)
+- [David Allysson](https://github.com/davidallysson) ✔️
 
-- [Gianluca Ghisleni](https://github.com/gigias)
+- [Dian Carlos](https://github.com/diancabral/) ✔️
 
-- [Henrique Emidio](https://github.com/henrymidio)
+- [Diogenes Pelisson](https://github.com/diogenxs) ✔️
 
-- [Isaque Bezerra](https://github.com/isaquebezerra)
+- [Dyego Alves](https://github.com/dyegoalves) ✔️
 
-- [Ivan Santos](https://github.com/ivansantos10)
+- [Edilson Matola](https://github.com/edilsonmatola) ✔️
 
-- [JJ Koscky](https://github.com/jjkoscky)
+- [Eugene Ong Gee Haw](https://github.com/imrbun) ✔️
 
-- [Jean Vitor de Paulo](https://github.com/jeanvit)
+- [Elivelton Andreati Sorato](https://github.com/elisor) ✔️
 
-- [João Marcos Duarte](https://github.com/johnmarcus015)
+- [Emerson Bezerra](https://github.com/emersondevelops) ✔️
 
-- [Kátia Nakamura](https://github.com/katiayn/)
+- [Felipe Cabrera](https://github.com/fcrdossantos) ✔️
 
-- [Leonardo Anjos](https://github.com/leonardo-anjos)
+- [Felipe Castilhos](https://github.com/felipecastilhos) ✔️
 
-- [Lucas Pires](https://github.com/lucasopf)
+- [Gabriel Gomes](https://github.com/gabrielgomesferraz) ✔️
 
-- [Marcos Freitas](https://github.com/marcosfreitas)
+- [Gan Chew Ying](https://github.com/gcyying123) ✔️
 
-- [Mauricio Colli](https://github.com/mauriciocolli)
+- [Gianluca Ghisleni](https://github.com/gigias) ✔️
 
-- [Michel Gomes](https://github.com/jmallone)
+- [Henrique Emidio](https://github.com/henrymidio) ✔️
 
-- [Michel Rodrigues](https://github.com/michel-rodrigues/)
+- [Isaque Bezerra](https://github.com/isaquebezerra) ✔️
 
-- [Murilo Eduardo dos Santos](https://github.com/MuriloEduardo)
+- [Ivan Santos](https://github.com/ivansantos10) ✔️
 
-- [Paulo R. Correia Jr](https://github.com/dopaco)
+- [JJ Koscky](https://github.com/jjkoscky) ✔️
 
-- [Rafael Cerqueira](https://github.com/rafascerqueira)
+- [Jean Vitor de Paulo](https://github.com/jeanvit) ✔️
 
-- [Rafael Neves](https://github.com/rafaeljneves)
+- [João Marcos Duarte](https://github.com/johnmarcus015) ✔️
 
-- [Rafael Pereira](https://github.com/12afaelPereira)
+- [Kátia Nakamura](https://github.com/katiayn/) ✔️
 
-- [Renan Teixeira](https://github.com/renant)
+- [Leonardo Anjos](https://github.com/leonardo-anjos) ✔️
 
-- [Rodrigo Tognin](https://github.com/rotognin)
+- [Lucas Pires](https://github.com/lucasopf) ✔️
 
-- [Rony Freitas](https://github.com/rony-freitas)
+- [Marcos Freitas](https://github.com/marcosfreitas) ✔️
 
-- [Rogerio Almeida](https://github.com/RogerioAP)
+- [Mauricio Colli](https://github.com/mauriciocolli) ✔️
 
-- [Ryan Filho](https://github.com/RyanFilho)
+- [Michel Gomes](https://github.com/jmallone) ✔️
 
-- [Sofia Bareta](https://github.com/sofiabareta)
+- [Michel Rodrigues](https://github.com/michel-rodrigues/) ✔️
 
-- [Tadeu Mesquita](https://github.com/tadeumesquita)
+- [Murilo Eduardo dos Santos](https://github.com/MuriloEduardo) ✔️
 
-- [Tamiris Bonicenha](https://github.com/tamirisapbonicenha)
+- [Paulo R. Correia Jr](https://github.com/dopaco) ✔️
 
-- [Tobias Rocha da Rosa](https://github.com/tobiassrocha)
+- [Rafael Cerqueira](https://github.com/rafascerqueira) ✔️
 
-- [Thiago Nascimento](https://github.com/anakis)
+- [Rafael Neves](https://github.com/rafaeljneves) ✔️
 
-- [Tiago Fuelber](https://github.com/TiagoFuelber)
+- [Rafael Pereira](https://github.com/12afaelPereira) ✔️
 
-- [Unai Zuluaga](https://github.com/unaizu)
+- [Renan Teixeira](https://github.com/renant) ✔️
 
-- [Wallace de Souza Vizerra](https://github.com/wallaceamxters)
+- [Rodrigo Tognin](https://github.com/rotognin) ✔️
 
-- [Welton Sanches](https://github.com/WeltonSanches)
+- [Rony Freitas](https://github.com/rony-freitas) ✔️
 
-- [William Andrade](https://github.com/williandrade)
+- [Rogerio Almeida](https://github.com/RogerioAP) ✔️
 
-- [William Mendes](https://github.com/willianmendesf)
+- [Ryan Filho](https://github.com/RyanFilho) ✔️
 
-- [Wilson Junior](https://github.com/wilsonjuniorwj)
+- [Sofia Bareta](https://github.com/sofiabareta) ✔️
 
-- [Wilson Neto](https://github.com/willgomes)
+- [Tadeu Mesquita](https://github.com/tadeumesquita) ✔️
+
+- [Tamiris Bonicenha](https://github.com/tamirisapbonicenha) ✔️
+
+- [Tobias Rocha da Rosa](https://github.com/tobiassrocha) ✔️
+
+- [Thiago Nascimento](https://github.com/anakis) ✔️
+
+- [Tiago Fuelber](https://github.com/TiagoFuelber) ✔️
+
+- [Unai Zuluaga](https://github.com/unaizu) ✔️
+
+- [Wallace de Souza Vizerra](https://github.com/wallaceamxters) ✔️
+
+- [Welton Sanches](https://github.com/WeltonSanches) ✔️
+
+- [William Andrade](https://github.com/williandrade) ✔️
+
+- [William Mendes](https://github.com/willianmendesf) ✔️
+
+- [Wilson Junior](https://github.com/wilsonjuniorwj) ✔️
+
+- [Wilson Neto](https://github.com/willgomes) ✔️
+

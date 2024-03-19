@@ -1,3 +1,0 @@
-﻿Testando alterações fazendo merge entre branch issue1 e master
-
-DiasNeto27
