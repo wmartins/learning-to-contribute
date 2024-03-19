@@ -1,7 +1,5 @@
 ﻿## Deixe aqui a sua contribuição e descobriremos quem já passou por aqui:
 
-- [Bruno Vargas](https://github.com/bjvargas)
-
 - [Adelcio Porto](https://github.com/adelcioportonfe)
 
 - [Adriano Avelino](https://github.com/adrianoavelino)
@@ -9,6 +7,10 @@
 - [Bruno Alves](https://github.com/brunoalvesdasilva)
 
 - [Bruno Teixeira](https://github.com/BrunoTxr)
+
+- [Bruno Vargas](https://github.com/bjvargas)
+
+- [Brian Muniz Silveira](https://github.com/DevDecfalter)
 
 - [Cagin Cevik](https://github.com/cgncvk)
 
@@ -22,9 +24,9 @@
 
 - [Claudio Donato Valim](https://github.com/cdvalim)
 
-- [Daniel Rigoni](https://github.com/danielrgn)
-
 - [Daniel da Silva Farias](https://github.com/danielsilvafarias)
+
+- [Daniel Rigoni](https://github.com/danielrgn)
 
 - [David Allysson](https://github.com/davidallysson)
 
@@ -34,9 +36,21 @@
 
 - [Dyego Alves](https://github.com/dyegoalves)
 
+- [Edilson Matola](https://github.com/edilsonmatola)
+
+- [Eugene Ong Gee Haw](https://github.com/imrbun)
+
 - [Elivelton Andreati Sorato](https://github.com/elisor)
 
+- [Emerson Bezerra](https://github.com/emersondevelops)
+
+- [Felipe Cabrera](https://github.com/fcrdossantos)
+
+- [Felipe Castilhos](https://github.com/felipecastilhos)
+
 - [Gabriel Gomes](https://github.com/gabrielgomesferraz)
+
+- [Gan Chew Ying](https://github.com/gcyying123)
 
 - [Gianluca Ghisleni](https://github.com/gigias)
 
@@ -54,9 +68,9 @@
 
 - [Kátia Nakamura](https://github.com/katiayn/)
 
-- [Lucas Pires](https://github.com/lucasopf)
-
 - [Leonardo Anjos](https://github.com/leonardo-anjos)
+
+- [Lucas Pires](https://github.com/lucasopf)
 
 - [Marcos Freitas](https://github.com/marcosfreitas)
 
@@ -82,7 +96,7 @@
 
 - [Rony Freitas](https://github.com/rony-freitas)
 
-- [Rogério Almeida](https://github.com/RogerioAP)
+- [Rogerio Almeida](https://github.com/RogerioAP)
 
 - [Ryan Filho](https://github.com/RyanFilho)
 
@@ -92,34 +106,22 @@
 
 - [Tamiris Bonicenha](https://github.com/tamirisapbonicenha)
 
-- [Tiago Fuelber](https://github.com/TiagoFuelber)
+- [Tobias Rocha da Rosa](https://github.com/tobiassrocha)
 
 - [Thiago Nascimento](https://github.com/anakis)
 
-- [Tobias Rocha da Rosa](https://github.com/tobiassrocha)
+- [Tiago Fuelber](https://github.com/TiagoFuelber)
+
+- [Unai Zuluaga](https://github.com/unaizu)
 
 - [Wallace de Souza Vizerra](https://github.com/wallaceamxters)
+
+- [Welton Sanches](https://github.com/WeltonSanches)
 
 - [William Andrade](https://github.com/williandrade)
 
 - [William Mendes](https://github.com/willianmendesf)
 
-- [Wilson Neto](https://github.com/willgomes)
-
 - [Wilson Junior](https://github.com/wilsonjuniorwj)
 
-- [Welton Sanches](https://github.com/WeltonSanches)
-
-- [Gan Chew Ying](https://github.com/gcyying123)
-
-- [Felipe Cabrera](https://github.com/fcrdossantos)
-
-- [Felipe Castilhos](https://github.com/felipecastilhos)
-
-- [Eugene Ong Gee Haw] (https://github.com/imrbun)
-
-- [Emerson Bezerra](https://github.com/emersondevelops)
-
-- [Edilson Matola](https://github.com/edilsonmatola)
-
-- [Unai Zuluaga](https://github.com/unaizu)
+- [Wilson Neto](https://github.com/willgomes)
