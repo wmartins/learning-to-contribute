@@ -1,6 +1,0 @@
-﻿Iniciando o uso do Git.
-<br />
-Obrigado pelo artigo! Muito bom, como sempre ;D
-<br />
-<br />
-Via @tableless - Contribuindo em projetos open source com o github

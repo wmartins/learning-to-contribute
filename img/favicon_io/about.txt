@@ -1,0 +1,6 @@
+This favicon was generated using the following font:
+
+- Font Title: Lateef
+- Font Author: Copyright (c) 1994-2023 SIL International.
+- Font Source: https://fonts.gstatic.com/s/lateef/v30/hESw6XVnNCxEvkbMpheEZo_H_w.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
